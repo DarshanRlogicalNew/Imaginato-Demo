@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		18584A05258A289B0025EF8A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18584A04258A289B0025EF8A /* LaunchScreen.storyboard */; };
 		3F3DB77F2587850D008CBA94 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F3DB77E2587850D008CBA94 /* AppDelegate.swift */; };
 		3F3DB7812587850D008CBA94 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F3DB7802587850D008CBA94 /* SceneDelegate.swift */; };
 		3F3DB7882587850D008CBA94 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F3DB7872587850D008CBA94 /* Assets.xcassets */; };
@@ -44,6 +45,7 @@
 /* Begin PBXFileReference section */
 		124BA7CF3C5863052E68E1A0 /* Pods-imaginato.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-imaginato.release.xcconfig"; path = "Target Support Files/Pods-imaginato/Pods-imaginato.release.xcconfig"; sourceTree = "<group>"; };
 		1299482E15B0CBAB85300DE2 /* Pods-imaginatoTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-imaginatoTests.debug.xcconfig"; path = "Target Support Files/Pods-imaginatoTests/Pods-imaginatoTests.debug.xcconfig"; sourceTree = "<group>"; };
+		18584A04258A289B0025EF8A /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3F3DB77B2587850D008CBA94 /* imaginato.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = imaginato.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F3DB77E2587850D008CBA94 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3F3DB7802587850D008CBA94 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -132,6 +134,7 @@
 				3F3DB7B925878676008CBA94 /* Resource */,
 				3F3DB77E2587850D008CBA94 /* AppDelegate.swift */,
 				3F3DB7802587850D008CBA94 /* SceneDelegate.swift */,
+				18584A04258A289B0025EF8A /* LaunchScreen.storyboard */,
 				3F3DB7872587850D008CBA94 /* Assets.xcassets */,
 				3F3DB78C2587850D008CBA94 /* Info.plist */,
 			);
@@ -337,6 +340,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				18584A05258A289B0025EF8A /* LaunchScreen.storyboard in Resources */,
 				3F3DB7882587850D008CBA94 /* Assets.xcassets in Resources */,
 				3F8C16482588B4BF00B19B9A /* Main.storyboard in Resources */,
 			);
